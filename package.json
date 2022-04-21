@@ -198,6 +198,9 @@
     "which",
     "write-file-atomic"
   ],
+  "overrides": {
+    "glob": "$glob"
+  },
   "devDependencies": {
     "@npmcli/eslint-config": "^3.0.1",
     "@npmcli/template-oss": "3.4.1",
